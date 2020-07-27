@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LoginMvp</string>
+    <string name="baseUr_j">http://114.141.132.146:818</string>
+    <string name="api_head">/CPAPI/V1/</string>
+    <string name="api_zgApp_news">ZhongGeKuaiBao</string>
+</resources>
